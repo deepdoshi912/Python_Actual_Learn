@@ -1,1 +1,2 @@
-print("Hello World")
+Remove file content
+
